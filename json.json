@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "name": "Test group 1",
+                "createdAt": "2023-07-25T22:42:15.440Z",
+                "updatedAt": "2023-07-25T22:42:16.572Z",
+                "publishedAt": "2023-07-25T22:42:16.569Z",
+                "contentCards": {
+                    "data": [
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "heading": "Some test content",
+                                "createdAt": "2023-07-25T22:04:42.517Z",
+                                "updatedAt": "2023-07-25T23:41:08.868Z",
+                                "publishedAt": "2023-07-25T23:38:53.159Z",
+                                "description": "A really long description about some things we do",
+                                "isNew": true,
+                                "sdkVersions": {
+                                    "data": {
+                                        "id": 3,
+                                        "attributes": {
+                                            "version_tag": "3.0",
+                                            "createdAt": "2023-07-25T22:32:48.641Z",
+                                            "updatedAt": "2023-07-25T22:32:49.570Z",
+                                            "publishedAt": "2023-07-25T22:32:49.568Z"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 1
+        }
+    }
+}
